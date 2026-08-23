@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large mortgage datasets
+data/raw/*
+data/processed/*
+
+# Keep placeholder files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
