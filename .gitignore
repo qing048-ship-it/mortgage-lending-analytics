@@ -224,3 +224,6 @@ data/processed/*
 # Keep placeholder files
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+
+# VS Code workspace settings
+.vscode/
